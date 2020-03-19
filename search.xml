@@ -1,6 +1,49 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>存档使用教程</title>
+    <url>/2020/03/18/%E5%AD%98%E6%A1%A3%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B/</url>
+    <content><![CDATA[<h1 id="使用文章目录可以快速查找"><a href="#使用文章目录可以快速查找" class="headerlink" title="使用文章目录可以快速查找"></a>使用文章目录可以快速查找</h1><blockquote>
+<p>前言：<del>一些小叮当经常问怎么导入存档</del>，所以做此教程</p>
+</blockquote>
+<blockquote>
+<p><a href="http://t.cn/A6zH0I4L" target="_blank" rel="noopener">es文件浏览器下载</a>密码：2333</p>
+</blockquote>
+<h2 id="国际版"><a href="#国际版" class="headerlink" title="国际版"></a>国际版</h2><h3 id="以zip结尾"><a href="#以zip结尾" class="headerlink" title="以zip结尾"></a>以zip结尾</h3><ol>
+<li>下载存档并使用es文件浏览器打开</li>
+</ol>
+<p><img src="https://s1.ax1x.com/2020/03/19/8rnL5V.png" alt="8rnL5V.png"><br><img src="https://s1.ax1x.com/2020/03/19/8rKCQg.png" alt="8rKCQg.png"></p>
+<ol start="2">
+<li>解压文件至games&gt;com.mojang&gt;minecraftWorlds</li>
+</ol>
+<p><img src="https://s1.ax1x.com/2020/03/19/8rKuSU.png" alt="8rKuSU.png"><br><img src="https://s1.ax1x.com/2020/03/19/8rKcff.png" alt="8rKcff.png"><br><img src="https://s1.ax1x.com/2020/03/19/8rKW6g.png" alt="8rKW6g.png"><br><img src="https://s1.ax1x.com/2020/03/19/8rK50s.png" alt="8rK50s.png"><br><img src="https://s1.ax1x.com/2020/03/19/8rMpA1.png" alt="8rMpA1.png"></p>
+<ol start="3">
+<li>打开游戏</li>
+</ol>
+<h3 id="以mcworld结尾"><a href="#以mcworld结尾" class="headerlink" title="以mcworld结尾"></a>以mcworld结尾</h3><p>直接使用我的世界打开</p>
+<p><img src="https://s1.ax1x.com/2020/03/19/8rlXjS.png" alt="8rlXjS.png"><br><img src="https://s1.ax1x.com/2020/03/19/8r1F3V.png" alt="8r1F3V.png"></p>
+<h2 id="中国版"><a href="#中国版" class="headerlink" title="中国版"></a>中国版</h2><h3 id="以zip结尾-1"><a href="#以zip结尾-1" class="headerlink" title="以zip结尾"></a>以zip结尾</h3><ol>
+<li>解压文件至Amdroid&gt;data&gt;com.netease.x19&gt;files&gt;importWorlds</li>
+</ol>
+<blockquote>
+<p>如何解压看上面</p>
+</blockquote>
+<p><img src="https://s1.ax1x.com/2020/03/19/8rG1g0.png" alt="8rG1g0.png"><br><img src="https://s1.ax1x.com/2020/03/19/8rGJDU.png" alt="8rGJDU.png"><br><img src="https://s1.ax1x.com/2020/03/19/8rGwCR.png" alt="8rGwCR.png"><br><img src="https://s1.ax1x.com/2020/03/19/8rJSMV.png" alt="8rJSMV.png"><br><img src="https://s1.ax1x.com/2020/03/19/8rJMZD.png" alt="8rJMZD.png"><br><img src="https://s1.ax1x.com/2020/03/19/8rJcQ0.png" alt="8rJcQ0.png"></p>
+<ol start="2">
+<li>打开游戏，导入存档</li>
+</ol>
+<p><img src="https://s1.ax1x.com/2020/03/19/8rNrJH.png" alt="8rNrJH.png"><br><img src="https://s1.ax1x.com/2020/03/19/8rNjTU.png" alt="8rNjTU.png"><br><img src="https://s1.ax1x.com/2020/03/19/8rUSfJ.png" alt="8rUSfJ.png"></p>
+<h3 id="以mcworld结尾-1"><a href="#以mcworld结尾-1" class="headerlink" title="以mcworld结尾"></a>以mcworld结尾</h3><p>找到夹文件将后缀改为zip，使用上面的方法</p>
+<p>这时就有聪明的小伙伴要问了：那么存档在哪里呢？<a href="https://www.baidu.com/" target="_blank" rel="noopener">百度一下，你就知道</a></p>
+]]></content>
+      <categories>
+        <category>我的世界</category>
+      </categories>
+      <tags>
+        <tag>我的世界基岩版</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>My New Post</title>
     <url>/2020/03/18/My-New-Post/</url>
     <content><![CDATA[<h1 id="这是一级标题"><a href="#这是一级标题" class="headerlink" title="这是一级标题"></a>这是一级标题</h1><p>不知道写什么</p>
